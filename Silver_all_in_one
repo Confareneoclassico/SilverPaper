@@ -1,3 +1,19 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "<!-- dom:TITLE: A brief introduction to the computation behind the Silver case study -->\n",
+    "# A brief introduction to the computation behind the Silver case study"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {
+    "collapsed": false
+   },
 import numpy as np
 import chaospy as cp
 import matplotlib.pyplot as plt
